@@ -1,0 +1,92 @@
+/* Import the Google fonts */
+
+@import url("https://fonts.googleapis.com/css?family=Pattaya&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Gupter&display=swap");
+
+/* Import the components files*/
+
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/small-top-banner.css");
+@import url("components/banner.css");
+@import url("components/section2.css");
+@import url("components/card.css");
+@import url("components/section1.css");
+@import url("components/mini-card.css");
+
+
+/* General style rules for fonts & colors */
+
+body {
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	text-justify: justify;
+	margin: 0px auto;
+
+}
+
+h1 {
+  font-size: 24px;
+  font-family: 'Pattaya', sans-serif;
+  color: black;
+  padding-left: 107px;
+
+}
+
+h2{
+  font-size: 18px;
+  font-family: 'Pattaya', sans-serif;
+  color: #FCE2AE;
+  padding-left: 68px;
+
+}
+
+h3{
+  font-size: 70px;
+  font-family: 'Pattaya', sans-serif;
+  color: #FFB3B3;
+  text-decoration: blink;
+  padding-left: 68px;
+  padding-bottom: 10px;
+
+}
+
+h4{
+  font-size: 45px;
+  font-family: 'Gupter', sans-serif;
+  color: #FCE2AE;
+  padding-left: 68px;
+  padding-top: 2px;
+
+ }
+
+ h5{
+  font-size: 28px;
+  font-family: 'Pattaya', sans-serif;
+  color: black;
+  margin: 20px auto;
+
+ }
+
+ h6{
+  font-size: 40px;
+  font-family: 'Pattaya', sans-serif;
+  color: black;
+  text-decoration: blink;
+  padding-left: 40px;
+  margin: 20px;
+
+}
+
+a:hover {
+  color: grey;
+}
+
+a:link {
+  font-size: 14px;
+  text-decoration: none;
+  font-family: 'Gupter', sans-serif;
+}
+
+

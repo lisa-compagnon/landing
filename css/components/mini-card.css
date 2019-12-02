@@ -1,0 +1,35 @@
+.mini-card {
+	margin: 38px;
+	box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+	border-radius: 2px;
+	width: 150px;
+	height: 150px;
+	background: #D57A66;
+	text-align:center;
+}
+
+.mini-card-image {
+	width: 150px;
+	height: 150px;
+	padding: 4px;
+	margin: 0px auto;
+	border-radius: 2px;
+}
+
+.mini-card:hover {
+	opacity: 0.6;
+}
+
+.mini-card h3 {
+	flex-grow: 1;
+	padding-left: 10px;
+	padding-right: 20px;
+}
+
+.mini-card a {
+	text-align: center;
+	padding: 5px;
+	width: 135px;
+	color: black;
+	font-size: 20px;
+}

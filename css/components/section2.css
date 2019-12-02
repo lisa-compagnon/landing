@@ -1,0 +1,16 @@
+#section2 {
+	background: #F8E0E6;  
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	width: 99,7%;
+	height: 580px;
+	padding: 5px;
+
+}
+
+#sub-section2 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 28px;
+	flex-wrap: wrap;
+}

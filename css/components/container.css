@@ -1,0 +1,24 @@
+#container {
+	background: white;
+	border-radius: 4px;  
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	width: 99%;
+	margin: 0px;
+
+}
+
+@media (max-width: 960px) {
+  #container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .#container {
+    width: 550px;
+  }
+}
+@media (max-width: 540px) {
+  #container {
+    width: 450px;
+  }
+}

@@ -1,0 +1,7 @@
+#section1 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 15px;
+	padding: 10px;
+}
